@@ -47,9 +47,21 @@ Use cases include digitizing documents, processing forms, multilingual text extr
 
 ## Demo / Screenshots
 
-### Home / Upload Page
+### Home Page
 ![Home Screen](./img/Home_page.jpeg)  
+
+
+---
+
+### Image to Text Conversion
+![Image to Text](./img/Image_to_text.jpeg)  
 _Users can upload images or PDFs and choose OCR language._
+
+---
+
+### Image to Text Result
+![Admin Panel](./img/Image_to_text_result.jpeg)  
+_Extracted text preview with copy/download options._
 
 ---
 
@@ -59,21 +71,9 @@ _Converts uploaded images into editable, searchable PDF files._
 
 ---
 
-### Image to Text Result
-![Image to Text](./img/Image_to_text.jpeg)  
-_Extracted text preview with copy/download options._
-
----
-
-### OCR Result – Detailed View
+### Image to PDF Result 
 ![OCR Result](./img/Image_to_texr_result.jpeg)  
-_View OCR output with enhanced formatting and cleanup._
-
----
-
-### Admin Panel Overview
-![Admin Panel](./img/Image_to_text_result.jpeg)  
-_Dashboard displaying OCR requests, logs, and feedback analytics._
+_Extracted text preview with copy/download options._
 
 ---
 
