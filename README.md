@@ -1,5 +1,3 @@
-![Screenshot_30-10-2025_123759_127 0 0 1](https://github.com/user-attachments/assets/623d2cc6-878a-48d2-86bc-bb9f6dcbad14)<div align="center">
-
 # AI Agent for OCR
 
 Intelligent Document Understanding with Vision & Language Models
