@@ -1,3 +1,5 @@
+<div align="center">
+
 # AI Agent for OCR
 
 Intelligent Document Understanding with Vision & Language Models
